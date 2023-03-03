@@ -1,8 +1,8 @@
 # Honeypot Data
 
-##Timestamps and IPs of bots/hackers that try to access my server.
+## Timestamps and IPs of bots/hackers that try to access my server.
 
-###The data in the json file is stored in this format:
+### The data in the json file is stored in this format:
 
 action		- What the hacker tries to do.   
 data		- Short description of everything.    
