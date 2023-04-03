@@ -1,0 +1,3 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.5", "src_port": "49643", "timestamp": "2023-04-02T15:11:36.017454"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.5", "src_port": "49643", "timestamp": "2023-04-02T15:11:36.271661"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": " \u0003   ", "protocol": "mysql", "src_ip": "194.26.27.5", "src_port": "64870", "status": "failed", "timestamp": "2023-04-02T22:55:59.057998", "username": "r\r\n\u0001"}
