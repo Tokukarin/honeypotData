@@ -1,0 +1,9 @@
+{"action": "command", "data": {"args": "()", "cmd": "HELP"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59354", "timestamp": "2023-04-17T16:30:41.458980"}
+{"action": "command", "data": {"args": "('leakix.net',)", "cmd": "EHLO"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59354", "timestamp": "2023-04-17T16:30:41.459376"}
+{"action": "command", "data": {"args": "()", "cmd": "?"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59354", "timestamp": "2023-04-17T16:30:41.459554"}
+{"action": "command", "data": {"args": "()", "cmd": ""}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59354", "timestamp": "2023-04-17T16:30:41.459730"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59360", "timestamp": "2023-04-17T16:30:46.486662"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59372", "timestamp": "2023-04-17T16:30:46.509968"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59372", "timestamp": "2023-04-17T16:30:46.522127"}
+{"action": "command", "data": {"args": "('',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59372", "timestamp": "2023-04-17T16:30:46.534174"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "", "protocol": "ftp", "src_ip": "35.216.237.60", "src_port": "59372", "status": "failed", "timestamp": "2023-04-17T16:30:46.534296", "username": "anonymous"}
