@@ -1,0 +1,37 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "23", "protocol": "telnet", "src_ip": "61.177.173.5", "src_port": "58629", "timestamp": "2023-04-23T01:48:59.665679"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "41040", "timestamp": "2023-04-23T07:23:55.477085"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "44322", "timestamp": "2023-04-23T07:23:56.507603"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "44322", "timestamp": "2023-04-23T07:23:56.704742"}
+{"action": "command", "data": {"args": "()", "cmd": "QUIT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "44322", "timestamp": "2023-04-23T07:23:56.907911"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "48148", "timestamp": "2023-04-23T07:23:57.842645"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "48148", "timestamp": "2023-04-23T07:23:58.028385"}
+{"action": "command", "data": {"args": "()", "cmd": "QUIT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "48148", "timestamp": "2023-04-23T07:23:58.231812"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "49982", "timestamp": "2023-04-23T07:23:58.452782"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.18", "src_port": "51120", "timestamp": "2023-04-23T07:23:58.805084"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "23", "protocol": "telnet", "src_ip": "193.142.146.135", "src_port": "61000", "timestamp": "2023-04-23T09:26:49.074265"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "32570", "timestamp": "2023-04-23T11:00:59.117048"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "36094", "timestamp": "2023-04-23T11:01:08.342331"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "39290", "timestamp": "2023-04-23T11:01:17.541622"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "39930", "timestamp": "2023-04-23T11:01:19.927543"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "41002", "timestamp": "2023-04-23T11:01:22.335983"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "41766", "timestamp": "2023-04-23T11:01:24.727089"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "42474", "timestamp": "2023-04-23T11:01:27.147482"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "43360", "timestamp": "2023-04-23T11:01:29.565144"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "44058", "timestamp": "2023-04-23T11:01:31.995581"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "44660", "timestamp": "2023-04-23T11:01:34.404892"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "47376", "timestamp": "2023-04-23T11:01:43.602248"}
+{"action": "command", "data": {"command": "GET", "params": "['/nice%20ports%2C/Tri%6Eity.txt%2ebak', 'HTTP/1.0']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "47376", "timestamp": "2023-04-23T11:01:43.620555"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "50322", "timestamp": "2023-04-23T11:01:52.846210"}
+{"action": "command", "data": {"command": "\u0001DEFAULT", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "50322", "timestamp": "2023-04-23T11:01:52.856079"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "23006", "timestamp": "2023-04-23T11:03:04.365511"}
+{"action": "command", "data": {"command": "EXAMPLE.COM", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "23006", "timestamp": "2023-04-23T11:03:04.418234"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "26430", "timestamp": "2023-04-23T11:03:13.577357"}
+{"action": "command", "data": {"command": "   \u0019A", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "26430", "timestamp": "2023-04-23T11:03:13.599006"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "30168", "timestamp": "2023-04-23T11:03:22.837432"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "31188", "timestamp": "2023-04-23T11:03:25.229714"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "35142", "timestamp": "2023-04-23T11:03:34.399824"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "36176", "timestamp": "2023-04-23T11:03:36.811440"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "37076", "timestamp": "2023-04-23T11:03:39.292316"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "38242", "timestamp": "2023-04-23T11:03:41.742039"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "42640", "timestamp": "2023-04-23T11:03:50.989540"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "118.194.250.80", "src_port": "46510", "timestamp": "2023-04-23T11:04:00.220118"}
