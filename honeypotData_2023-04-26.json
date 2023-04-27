@@ -1,0 +1,2 @@
+{"action": "command", "data": {"args": "('anonymous@',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "39320", "timestamp": "2023-04-26T10:46:20.866349"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "39320", "status": "failed", "timestamp": "2023-04-26T10:46:20.866790", "username": "anonymous"}
