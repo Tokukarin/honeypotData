@@ -1,0 +1,11 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.78.249.41", "src_port": "53670", "timestamp": "2023-05-28T09:29:22.861663"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.78.249.41", "src_port": "53686", "timestamp": "2023-05-28T09:29:22.905180"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.78.249.41", "src_port": "53686", "timestamp": "2023-05-28T09:29:22.918050"}
+{"action": "command", "data": {"args": "('anonymous@',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.78.249.41", "src_port": "53686", "timestamp": "2023-05-28T09:29:22.930886"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "34.78.249.41", "src_port": "53686", "status": "failed", "timestamp": "2023-05-28T09:29:22.931062", "username": "anonymous"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "34280", "timestamp": "2023-05-28T09:29:52.319815"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "34296", "timestamp": "2023-05-28T09:29:52.345868"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "34296", "timestamp": "2023-05-28T09:29:52.359021"}
+{"action": "command", "data": {"args": "('anonymous@',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "34296", "timestamp": "2023-05-28T09:29:52.372242"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "35.233.62.116", "src_port": "34296", "status": "failed", "timestamp": "2023-05-28T09:29:52.372395", "username": "anonymous"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "205.210.31.173", "src_port": "52961", "timestamp": "2023-05-28T17:06:53.513109"}
