@@ -1,0 +1,5 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "101.36.119.201", "src_port": "16656", "timestamp": "2023-09-01T11:38:27.730623"}
+{"action": "command", "data": {"args": "()", "cmd": "HELP"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "46.101.103.192", "src_port": "48220", "timestamp": "2023-09-01T15:33:53.797662"}
+{"action": "command", "data": {"args": "('3139352e3230312e3230332e313830.net',)", "cmd": "EHLO"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "46.101.103.192", "src_port": "48220", "timestamp": "2023-09-01T15:33:53.798064"}
+{"action": "command", "data": {"args": "()", "cmd": "?"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "46.101.103.192", "src_port": "48220", "timestamp": "2023-09-01T15:33:53.798260"}
+{"action": "command", "data": {"args": "()", "cmd": ""}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "46.101.103.192", "src_port": "48220", "timestamp": "2023-09-01T15:33:53.798439"}
