@@ -1,0 +1,3 @@
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "207.90.244.13", "src_port": "56708", "timestamp": "2023-09-14T10:42:47.268831"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "118.123.105.93", "src_port": "43240", "timestamp": "2023-09-14T19:05:39.923497"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "118.123.105.93", "src_port": "44654", "timestamp": "2023-09-14T19:05:45.435975"}
