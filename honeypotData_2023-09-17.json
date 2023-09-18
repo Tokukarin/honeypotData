@@ -1,0 +1,11 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "1490", "timestamp": "2023-09-17T02:00:20.085680"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "a3f91bfc29d3e59a934d4c018cf8c307b9880184", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "1490", "status": "failed", "timestamp": "2023-09-17T02:00:20.264380", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "3270", "timestamp": "2023-09-17T02:00:20.641063"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "48241c875da2794419a61b6b40ba670185c13048", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "3270", "status": "failed", "timestamp": "2023-09-17T02:00:20.832938", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "4977", "timestamp": "2023-09-17T02:00:21.178274"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "123456", "protocol": "mysql", "src_ip": "45.136.118.147", "src_port": "4977", "status": "success", "timestamp": "2023-09-17T02:00:21.344888", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "38706", "timestamp": "2023-09-17T05:44:44.313085"}
+{"action": "command", "data": {"command": "GET", "params": "['/', 'HTTP/1.1']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "38706", "timestamp": "2023-09-17T05:44:45.313534"}
+{"action": "command", "data": {"command": "HOST:", "params": "['195.201.203.180:6667']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "38706", "timestamp": "2023-09-17T05:44:45.313714"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "60254", "timestamp": "2023-09-17T05:44:48.445956"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "162.243.141.41", "src_port": "55504", "timestamp": "2023-09-17T16:05:35.943935"}
