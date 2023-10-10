@@ -1,0 +1,1 @@
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "101.255.140.186", "src_port": "59895", "timestamp": "2023-10-09T23:58:54.242092"}
