@@ -1,0 +1,4 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "161.81.47.139", "src_port": "61695", "timestamp": "2023-10-29T12:44:52.415018"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "161.81.47.139", "src_port": "61695", "status": "failed", "timestamp": "2023-10-29T12:44:52.677947", "username": "root"}
+{"action": "command", "data": {"args": "('',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "165.154.138.151", "src_port": "53004", "timestamp": "2023-10-29T15:32:53.060973"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "", "protocol": "ftp", "src_ip": "165.154.138.151", "src_port": "53004", "status": "failed", "timestamp": "2023-10-29T15:32:53.061390", "username": "anonymous"}
