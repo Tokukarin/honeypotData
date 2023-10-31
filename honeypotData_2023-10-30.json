@@ -1,0 +1,15 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "192.241.210.27", "src_port": "42588", "timestamp": "2023-10-30T13:57:12.801136"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "123.254.109.240", "src_port": "60738", "timestamp": "2023-10-30T14:52:40.543061"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "123.254.109.240", "src_port": "60738", "status": "failed", "timestamp": "2023-10-30T14:52:41.148773", "username": ""}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "123.254.109.240", "src_port": "34186", "timestamp": "2023-10-30T14:52:47.141772"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "34293306b7f3c2c3afac04aa81b850fc427dfa29", "protocol": "mysql", "src_ip": "123.254.109.240", "src_port": "34186", "status": "failed", "timestamp": "2023-10-30T14:52:47.147819", "username": "root"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "123.254.109.240", "src_port": "34186", "status": "failed", "timestamp": "2023-10-30T14:52:47.441044", "username": ""}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "52426", "timestamp": "2023-10-30T19:07:33.177517"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "52426", "timestamp": "2023-10-30T19:07:33.389402"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "53006", "timestamp": "2023-10-30T19:07:33.390312"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "53006", "timestamp": "2023-10-30T19:07:33.554050"}
+{"action": "command", "data": {"args": "()", "cmd": "QUIT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "52426", "timestamp": "2023-10-30T19:07:33.557940"}
+{"action": "command", "data": {"args": "()", "cmd": "QUIT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "53006", "timestamp": "2023-10-30T19:07:33.758357"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "53976", "timestamp": "2023-10-30T19:07:33.763211"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "104.156.155.23", "src_port": "54846", "timestamp": "2023-10-30T19:07:34.119766"}
+{"action": "command", "data": {"command": "USER", "params": "['qykpiegsa', '8', '*', 'qykpiegsa']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "183.136.225.48", "src_port": "23709", "timestamp": "2023-10-30T22:53:44.020228"}
