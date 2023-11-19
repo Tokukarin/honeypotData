@@ -1,0 +1,2 @@
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "186.167.80.238", "src_port": "59354", "status": "failed", "timestamp": "2023-11-18T14:43:06.504405", "username": "root"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "", "protocol": "ftp", "src_ip": "152.32.227.23", "src_port": "36636", "status": "failed", "timestamp": "2023-11-18T15:27:39.602858", "username": "anonymous"}
