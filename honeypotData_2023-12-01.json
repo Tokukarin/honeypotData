@@ -1,0 +1,4 @@
+{"action": "command", "data": {"args": "('username',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "213.230.107.223", "src_port": "49404", "timestamp": "2023-12-01T05:37:05.544486"}
+{"action": "command", "data": {"args": "('Demo',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "213.230.107.223", "src_port": "49404", "timestamp": "2023-12-01T05:37:06.016267"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "Demo", "protocol": "ftp", "src_ip": "213.230.107.223", "src_port": "49404", "status": "failed", "timestamp": "2023-12-01T05:37:06.016448", "username": "username"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "162.142.125.14", "src_port": "52624", "timestamp": "2023-12-01T15:13:56.220515"}
