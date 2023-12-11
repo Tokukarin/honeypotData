@@ -1,0 +1,1 @@
+{"action": "command", "data": {"command": "MGLNDD_195.201.203.180_6667", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "192.241.198.73", "src_port": "60920", "timestamp": "2023-12-10T18:37:20.799135"}
