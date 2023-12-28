@@ -1,0 +1,5 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "81.163.57.104", "src_port": "52344", "timestamp": "2023-12-27T07:32:39.235497"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "81.163.57.104", "src_port": "61695", "timestamp": "2023-12-27T07:32:39.416040"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "81.163.57.104", "src_port": "55047", "timestamp": "2023-12-27T07:32:39.665445"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "192.241.224.28", "src_port": "38216", "timestamp": "2023-12-27T10:02:06.246241"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "192.241.224.28", "src_port": "38216", "timestamp": "2023-12-27T10:02:06.401754"}
