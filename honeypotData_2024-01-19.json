@@ -1,0 +1,4 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "80.66.88.211", "src_port": "65462", "timestamp": "2024-01-19T03:20:29.131617"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": " \u0003   ", "protocol": "mysql", "src_ip": "80.66.88.211", "src_port": "65462", "status": "failed", "timestamp": "2024-01-19T03:20:29.132626", "username": "r\r\n\u0001"}
+{"action": "command", "data": {"command": "HOST:", "params": "['195.201.203.180:6667']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.33", "src_port": "38764", "timestamp": "2024-01-19T14:41:22.259840"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.33", "src_port": "48168", "timestamp": "2024-01-19T14:41:28.374731"}
