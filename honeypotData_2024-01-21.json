@@ -1,0 +1,4 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.231", "src_port": "64104", "timestamp": "2024-01-21T03:45:34.263812"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.231", "src_port": "64104", "timestamp": "2024-01-21T03:45:34.471831"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.231", "src_port": "64104", "timestamp": "2024-01-21T03:45:34.678443"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "87.236.176.207", "src_port": "32999", "timestamp": "2024-01-21T23:14:00.021381"}
