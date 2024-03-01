@@ -1,0 +1,11 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "145.239.154.85", "src_port": "54806", "timestamp": "2024-02-29T06:08:21.995181"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "145.239.154.85", "src_port": "54808", "timestamp": "2024-02-29T06:08:22.032939"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "52186", "timestamp": "2024-02-29T18:14:56.162213"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "58254", "timestamp": "2024-02-29T18:15:15.001858"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "58254", "status": "failed", "timestamp": "2024-02-29T18:15:15.721706", "username": ""}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "54440", "timestamp": "2024-02-29T18:15:28.142073"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "34293306b7f3c2c3afac04aa81b850fc427dfa29", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "54440", "status": "failed", "timestamp": "2024-02-29T18:15:28.142351", "username": "root"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "165.154.100.56", "src_port": "54440", "status": "failed", "timestamp": "2024-02-29T18:15:28.413424", "username": ""}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "167.94.146.60", "src_port": "44636", "timestamp": "2024-02-29T22:34:44.810509"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "167.94.146.60", "src_port": "44636", "timestamp": "2024-02-29T22:34:44.817852"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "167.94.146.60", "src_port": "44636", "timestamp": "2024-02-29T22:34:44.824379"}
