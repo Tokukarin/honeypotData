@@ -1,0 +1,2 @@
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.197", "src_port": "63478", "timestamp": "2024-03-03T06:49:34.648884"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "184.105.247.238", "src_port": "61651", "timestamp": "2024-03-03T16:19:48.908558"}
