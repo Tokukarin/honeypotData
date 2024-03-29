@@ -1,0 +1,3 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "20.100.9.161", "src_port": "51808", "timestamp": "2024-03-28T11:20:37.807603"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "20.100.9.161", "src_port": "51808", "status": "failed", "timestamp": "2024-03-28T11:20:37.819473", "username": ""}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "20.100.9.161", "src_port": "51808", "status": "failed", "timestamp": "2024-03-28T11:20:37.832984", "username": ""}
