@@ -1,0 +1,10 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "165.154.58.251", "src_port": "37854", "timestamp": "2024-04-06T08:28:19.605460"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "34293306b7f3c2c3afac04aa81b850fc427dfa29", "protocol": "mysql", "src_ip": "165.154.58.251", "src_port": "37854", "status": "failed", "timestamp": "2024-04-06T08:28:19.622253", "username": "root"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "165.154.58.251", "src_port": "37854", "status": "failed", "timestamp": "2024-04-06T08:28:19.838538", "username": ""}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "167.94.138.51", "src_port": "38850", "timestamp": "2024-04-06T09:00:20.763083"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "42210", "timestamp": "2024-04-06T11:17:31.833109"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "38734", "timestamp": "2024-04-06T11:17:35.328392"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "41660", "timestamp": "2024-04-06T11:17:36.104731"}
+{"action": "command", "data": {"command": "GET", "params": "['/', 'HTTP/1.1']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "41660", "timestamp": "2024-04-06T11:17:39.271556"}
+{"action": "command", "data": {"command": "HOST:", "params": "['195.201.203.180:6667']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "41660", "timestamp": "2024-04-06T11:17:39.271769"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.138.126", "src_port": "43448", "timestamp": "2024-04-06T11:17:45.396389"}
