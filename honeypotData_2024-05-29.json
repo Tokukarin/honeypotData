@@ -1,0 +1,1 @@
+{"action": "command", "data": {"args": "()", "cmd": ""}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "178.79.139.171", "src_port": "41082", "timestamp": "2024-05-28T23:59:56.781811"}
