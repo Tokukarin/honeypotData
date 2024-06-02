@@ -1,0 +1,10 @@
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "198.235.24.120", "src_port": "63200", "timestamp": "2024-06-01T09:11:37.125117"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "159.75.56.103", "src_port": "42844", "timestamp": "2024-06-01T11:14:24.052838"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "159.75.56.103", "src_port": "42844", "status": "failed", "timestamp": "2024-06-01T11:14:24.311732", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "206.168.34.120", "src_port": "40544", "timestamp": "2024-06-01T13:46:53.376792"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "206.168.34.120", "src_port": "40558", "timestamp": "2024-06-01T13:46:53.600759"}
+{"action": "command", "data": {"command": "GET", "params": "['/', 'HTTP/1.1']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "206.168.34.120", "src_port": "40558", "timestamp": "2024-06-01T13:46:56.603152"}
+{"action": "command", "data": {"command": "HOST:", "params": "['195.201.203.180:6667']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "206.168.34.120", "src_port": "40558", "timestamp": "2024-06-01T13:46:56.603350"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "206.168.34.120", "src_port": "55066", "timestamp": "2024-06-01T13:47:02.712492"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "139.162.190.203", "src_port": "16949", "timestamp": "2024-06-01T21:29:13.326571"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "139.162.190.203", "src_port": "16949", "timestamp": "2024-06-01T21:29:13.334685"}
