@@ -1,0 +1,4 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "206.168.34.55", "src_port": "35488", "timestamp": "2024-06-27T00:33:16.835859"}
+{"action": "command", "data": {"command": "ACCEPT:", "params": "['*/*']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "185.242.226.41", "src_port": "36548", "timestamp": "2024-06-27T11:27:54.816867"}
+{"action": "command", "data": {"command": "ACCEPT-ENCODING:", "params": "['gzip']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "185.242.226.41", "src_port": "36548", "timestamp": "2024-06-27T11:27:54.833815"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "205.210.31.31", "src_port": "54448", "timestamp": "2024-06-27T17:39:40.134860"}
