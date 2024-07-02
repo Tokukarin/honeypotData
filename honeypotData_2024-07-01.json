@@ -1,0 +1,10 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "42162", "timestamp": "2024-07-01T06:51:16.983609"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "42176", "timestamp": "2024-07-01T06:51:17.028017"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "42252", "timestamp": "2024-07-01T06:51:20.100583"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "45996", "timestamp": "2024-07-01T06:51:23.190295"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "46010", "timestamp": "2024-07-01T06:51:23.217617"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.94.145.104", "src_port": "46016", "timestamp": "2024-07-01T06:51:26.310247"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "103.151.122.207", "src_port": "10309", "timestamp": "2024-07-01T12:05:31.517061"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "544f454971cb567d594f75bdfbddc7e026ca7dcc", "protocol": "mysql", "src_ip": "103.151.122.207", "src_port": "10309", "status": "failed", "timestamp": "2024-07-01T12:05:31.769298", "username": "administrator"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "172.206.148.139", "src_port": "53504", "timestamp": "2024-07-01T23:19:12.214488"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "172.206.148.139", "src_port": "53504", "status": "failed", "timestamp": "2024-07-01T23:19:12.215424", "username": ""}
