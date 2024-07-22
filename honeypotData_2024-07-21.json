@@ -1,0 +1,14 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.123", "src_port": "45045", "timestamp": "2024-07-21T01:54:32.418152"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.135", "src_port": "37711", "timestamp": "2024-07-21T01:54:44.471133"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.116", "src_port": "42181", "timestamp": "2024-07-21T01:54:59.523891"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.116", "src_port": "49615", "timestamp": "2024-07-21T01:55:02.584282"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.118", "src_port": "36915", "timestamp": "2024-07-21T01:55:14.636396"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.134", "src_port": "34197", "timestamp": "2024-07-21T01:55:29.688211"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.143", "src_port": "55269", "timestamp": "2024-07-21T01:55:44.739152"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.132", "src_port": "42279", "timestamp": "2024-07-21T01:55:59.847704"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "97fe762f34fca22841786a25acd967afcac378bf", "protocol": "mysql", "src_ip": "121.172.26.63", "src_port": "2877", "status": "failed", "timestamp": "2024-07-21T12:49:11.248561", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "121.172.26.63", "src_port": "4036", "timestamp": "2024-07-21T12:49:11.812255"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "8b00173023ee5ab7ac4356dc6305f1540c5b7874", "protocol": "mysql", "src_ip": "121.172.26.63", "src_port": "4036", "status": "failed", "timestamp": "2024-07-21T12:49:12.094023", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "121.172.26.63", "src_port": "1113", "timestamp": "2024-07-21T12:49:12.671006"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "0a6e0661928efa14b8be79d7a6adec83d8b061c7", "protocol": "mysql", "src_ip": "121.172.26.63", "src_port": "1113", "status": "failed", "timestamp": "2024-07-21T12:49:12.959615", "username": "root"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "35.205.205.158", "src_port": "51814", "status": "failed", "timestamp": "2024-07-21T13:51:26.024364", "username": "anonymous"}
