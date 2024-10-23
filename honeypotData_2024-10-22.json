@@ -1,0 +1,13 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.102", "src_port": "55417", "timestamp": "2024-10-22T03:11:29.187697"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.104", "src_port": "42913", "timestamp": "2024-10-22T03:11:41.242856"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.106", "src_port": "60459", "timestamp": "2024-10-22T03:11:56.296879"}
+{"action": "command", "data": {"command": "*1", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.106", "src_port": "60459", "timestamp": "2024-10-22T03:11:59.297036"}
+{"action": "command", "data": {"command": "$4", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.106", "src_port": "60459", "timestamp": "2024-10-22T03:11:59.297384"}
+{"action": "command", "data": {"command": "INFO", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.106", "src_port": "60459", "timestamp": "2024-10-22T03:11:59.297608"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "80.75.212.9", "src_port": "47396", "timestamp": "2024-10-22T05:59:25.182302"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "80.75.212.9", "src_port": "47380", "timestamp": "2024-10-22T05:59:25.183839"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "152.32.249.95", "src_port": "34338", "status": "failed", "timestamp": "2024-10-22T15:18:06.262887", "username": ""}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.13", "src_port": "41772", "timestamp": "2024-10-22T16:29:52.433992"}
+{"action": "command", "data": {"args": "('',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.13", "src_port": "41772", "timestamp": "2024-10-22T16:29:52.445007"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "", "protocol": "ftp", "src_ip": "35.216.172.13", "src_port": "41772", "status": "failed", "timestamp": "2024-10-22T16:29:52.445191", "username": "anonymous"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "154.213.184.18", "src_port": "59836", "timestamp": "2024-10-22T22:08:29.402009"}
