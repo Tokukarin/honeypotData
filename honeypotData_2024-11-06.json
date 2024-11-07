@@ -1,0 +1,8 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "8.222.181.172", "src_port": "13440", "timestamp": "2024-11-06T07:21:20.608278"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "8.222.181.172", "src_port": "13440", "status": "failed", "timestamp": "2024-11-06T07:21:20.883901", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "66.240.219.146", "src_port": "52628", "timestamp": "2024-11-06T08:23:27.038272"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "66.240.219.146", "src_port": "52802", "timestamp": "2024-11-06T08:23:27.371818"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "66.240.219.146", "src_port": "53074", "timestamp": "2024-11-06T08:23:28.544011"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "80.82.70.133", "src_port": "60000", "timestamp": "2024-11-06T17:12:52.822411"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "65.49.20.69", "src_port": "39558", "timestamp": "2024-11-06T18:26:20.503406"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "65.49.20.69", "src_port": "39558", "timestamp": "2024-11-06T18:26:20.648769"}
