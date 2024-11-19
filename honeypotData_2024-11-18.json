@@ -1,0 +1,30 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.43", "src_port": "39492", "timestamp": "2024-11-18T07:30:30.925269"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.43", "src_port": "39476", "timestamp": "2024-11-18T07:30:30.925713"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "194.48.251.225", "src_port": "34438", "status": "failed", "timestamp": "2024-11-18T08:31:18.305700", "username": "root"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "64.62.197.68", "src_port": "15295", "timestamp": "2024-11-18T18:19:05.831692"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "64.62.197.68", "src_port": "15295", "timestamp": "2024-11-18T18:19:05.978530"}
+{"action": "command", "data": {"command": "FOX", "params": "['a', '1', '-1', 'fox', 'hello']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.181", "src_port": "39607", "timestamp": "2024-11-18T19:25:48.240899"}
+{"action": "command", "data": {"command": "FOX.VERSION=S:1.0", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.181", "src_port": "39607", "timestamp": "2024-11-18T19:25:48.241379"}
+{"action": "command", "data": {"command": "ID=I:1", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.181", "src_port": "39607", "timestamp": "2024-11-18T19:25:48.241490"}
+{"action": "command", "data": {"command": "};;", "params": "[]", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "87.236.176.181", "src_port": "39607", "timestamp": "2024-11-18T19:25:48.241595"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49134", "timestamp": "2024-11-18T22:43:05.445035"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49138", "timestamp": "2024-11-18T22:43:05.764946"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49154", "timestamp": "2024-11-18T22:43:06.083885"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49158", "timestamp": "2024-11-18T22:43:06.404310"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49166", "timestamp": "2024-11-18T22:43:06.723108"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49170", "timestamp": "2024-11-18T22:43:07.042770"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49176", "timestamp": "2024-11-18T22:43:07.358876"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49190", "timestamp": "2024-11-18T22:43:07.674375"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49200", "timestamp": "2024-11-18T22:43:07.993490"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49204", "timestamp": "2024-11-18T22:43:08.309499"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49218", "timestamp": "2024-11-18T22:43:08.630516"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49228", "timestamp": "2024-11-18T22:43:08.949197"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49236", "timestamp": "2024-11-18T22:43:09.264735"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49252", "timestamp": "2024-11-18T22:43:09.580760"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49254", "timestamp": "2024-11-18T22:43:09.900405"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49268", "timestamp": "2024-11-18T22:43:10.219656"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49276", "timestamp": "2024-11-18T22:43:10.539095"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49280", "timestamp": "2024-11-18T22:43:10.854829"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49296", "timestamp": "2024-11-18T22:43:11.172870"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "49306", "timestamp": "2024-11-18T22:43:11.488070"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.79.68.212", "src_port": "37234", "timestamp": "2024-11-18T22:43:11.806517"}
