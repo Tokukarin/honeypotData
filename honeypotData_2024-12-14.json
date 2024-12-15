@@ -1,0 +1,12 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "40816", "timestamp": "2024-12-14T03:11:46.120200"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "544f454971cb567d594f75bdfbddc7e026ca7dcc", "protocol": "mysql", "src_ip": "208.131.130.112", "src_port": "50600", "status": "failed", "timestamp": "2024-12-14T04:30:19.697428", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36122", "timestamp": "2024-12-14T09:12:42.973249"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36132", "timestamp": "2024-12-14T09:12:43.001808"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36146", "timestamp": "2024-12-14T09:12:43.033611"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36156", "timestamp": "2024-12-14T09:12:43.061877"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36168", "timestamp": "2024-12-14T09:12:43.097591"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "91.227.62.246", "src_port": "36180", "timestamp": "2024-12-14T09:12:43.126032"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "154.213.184.18", "src_port": "52826", "timestamp": "2024-12-14T14:19:22.770300"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "8834a71f10eb0ee15a6c4a65a9b74e17c1efb728", "protocol": "mysql", "src_ip": "5.101.0.66", "src_port": "42350", "status": "failed", "timestamp": "2024-12-14T23:03:52.221660", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "5.101.0.66", "src_port": "57772", "timestamp": "2024-12-14T23:03:52.319874"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "0a6e0661928efa14b8be79d7a6adec83d8b061c7", "protocol": "mysql", "src_ip": "5.101.0.66", "src_port": "57772", "status": "failed", "timestamp": "2024-12-14T23:03:52.360105", "username": "root"}
