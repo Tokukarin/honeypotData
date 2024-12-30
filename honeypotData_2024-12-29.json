@@ -1,0 +1,7 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "141.98.11.129", "src_port": "52204", "timestamp": "2024-12-29T09:07:04.810452"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "35.189.232.73", "src_port": "42584", "status": "failed", "timestamp": "2024-12-29T14:07:00.476485", "username": "anonymous"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "194.195.210.55", "src_port": "35668", "timestamp": "2024-12-29T17:32:46.054256"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "194.195.210.55", "src_port": "35678", "timestamp": "2024-12-29T17:32:46.282874"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "194.195.210.55", "src_port": "35688", "timestamp": "2024-12-29T17:32:46.508089"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "194.195.210.55", "src_port": "35692", "timestamp": "2024-12-29T17:32:46.733700"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "194.195.210.55", "src_port": "35706", "timestamp": "2024-12-29T17:32:46.959150"}
