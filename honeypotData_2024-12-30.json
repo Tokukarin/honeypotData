@@ -1,0 +1,6 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "162.142.125.195", "src_port": "35142", "timestamp": "2024-12-30T03:20:37.491493"}
+{"action": "command", "data": {"command": "USER-AGENT:", "params": "['Mozilla/5.0', '(Windows', 'NT', '10.0;', 'Win64;', 'x64)', 'AppleWebKit/537.36', '(KHTML,', 'like', 'Gecko)', 'Chrome/104.0.0.0', 'Safari/537.36']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "94.156.166.49", "src_port": "41738", "timestamp": "2024-12-30T09:12:44.320245"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "216.218.206.67", "src_port": "47550", "timestamp": "2024-12-30T11:52:25.431209"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "216.218.206.67", "src_port": "47544", "timestamp": "2024-12-30T11:52:25.451930"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "198.235.24.86", "src_port": "55151", "timestamp": "2024-12-30T15:24:30.266778"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "74.82.47.3", "src_port": "24658", "timestamp": "2024-12-30T15:55:31.004193"}
