@@ -1,0 +1,39 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.452123"}
+{"action": "command", "data": {"args": "('/ HTTP/1.1',)", "cmd": "GET"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.503461"}
+{"action": "command", "data": {"args": "('195.201.203.180:21',)", "cmd": "HOST:"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.503856"}
+{"action": "command", "data": {"args": "('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36',)", "cmd": "USER-AGENT:"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.504111"}
+{"action": "command", "data": {"args": "('*/*',)", "cmd": "ACCEPT:"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.504341"}
+{"action": "command", "data": {"args": "('gzip',)", "cmd": "ACCEPT-ENCODING:"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.504570"}
+{"action": "command", "data": {"args": "()", "cmd": ""}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47408", "timestamp": "2025-01-24T00:48:24.504862"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "47430", "timestamp": "2025-01-24T00:48:28.687607"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "18.216.255.128", "src_port": "42454", "timestamp": "2025-01-24T00:49:03.684033"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "\u0013\u0002\u0013\u0003\u0013\u0001 3 9 5 /,0  \u0329\u0328\u032a]aWS+/  \\`VR$( k jsw  #' g @rv  \n\u0014 8  \t\u0013 2   E D Q P =  <    A ", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "37744", "status": "failed", "timestamp": "2025-01-24T01:25:15.323827", "username": ":by&\u0003\b2 B'm|Q3\u0016Ca\u000b\u001bHNQX6"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "37770", "timestamp": "2025-01-24T01:25:15.374054"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "37770", "status": "failed", "timestamp": "2025-01-24T01:25:15.399871", "username": "qv?:\u0019"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "37890", "timestamp": "2025-01-24T01:25:15.524294"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "38250", "timestamp": "2025-01-24T01:25:16.025658"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "38406", "timestamp": "2025-01-24T01:25:16.275956"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "41000", "timestamp": "2025-01-24T01:25:19.364913"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "61691", "timestamp": "2025-01-24T01:25:19.712014"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "41742", "timestamp": "2025-01-24T01:25:20.010804"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "42128", "timestamp": "2025-01-24T01:25:20.309073"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "29121", "timestamp": "2025-01-24T01:25:20.656964"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "44242", "timestamp": "2025-01-24T01:25:22.503756"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "44490", "timestamp": "2025-01-24T01:25:22.751311"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "45048", "timestamp": "2025-01-24T01:25:23.298749"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "52792", "timestamp": "2025-01-24T01:25:33.281923"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "53144", "timestamp": "2025-01-24T01:25:33.483186"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "53246", "timestamp": "2025-01-24T01:25:33.582361"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "178.79.139.171", "src_port": "53584", "timestamp": "2025-01-24T01:25:33.780773"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.15", "src_port": "33931", "timestamp": "2025-01-24T15:12:10.236221"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.20", "src_port": "39645", "timestamp": "2025-01-24T15:12:22.289459"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.32", "src_port": "51383", "timestamp": "2025-01-24T15:12:37.340681"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.35", "src_port": "43323", "timestamp": "2025-01-24T15:12:53.429143"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.5", "src_port": "51325", "timestamp": "2025-01-24T15:13:08.482190"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.23", "src_port": "50475", "timestamp": "2025-01-24T15:13:23.534067"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "87.236.176.9", "src_port": "46429", "timestamp": "2025-01-24T15:13:38.603441"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.6", "src_port": "48721", "timestamp": "2025-01-24T15:13:53.783230"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "167.94.146.60", "src_port": "36678", "timestamp": "2025-01-24T16:40:06.190384"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "198.235.24.124", "src_port": "55304", "timestamp": "2025-01-24T17:44:21.477854"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "40.78.88.169", "src_port": "50514", "status": "failed", "timestamp": "2025-01-24T19:46:49.982028", "username": ""}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "204.76.203.41", "src_port": "55742", "timestamp": "2025-01-24T21:40:20.041501"}
