@@ -1,0 +1,2 @@
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "194.48.251.208", "src_port": "53084", "status": "failed", "timestamp": "2025-01-31T02:26:47.518177", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "198.235.24.125", "src_port": "61336", "timestamp": "2025-01-31T21:37:24.784284"}
