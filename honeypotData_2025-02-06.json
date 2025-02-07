@@ -1,0 +1,10 @@
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "194.48.251.208", "src_port": "38706", "status": "failed", "timestamp": "2025-02-06T01:48:47.993810", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "205.210.31.54", "src_port": "60304", "timestamp": "2025-02-06T02:32:16.281520"}
+{"action": "command", "data": {"args": "('leakix.net',)", "cmd": "EHLO"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45466", "timestamp": "2025-02-06T09:03:15.424494"}
+{"action": "command", "data": {"args": "()", "cmd": "?"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45466", "timestamp": "2025-02-06T09:03:15.425062"}
+{"action": "command", "data": {"args": "()", "cmd": ""}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45466", "timestamp": "2025-02-06T09:03:15.425343"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45476", "timestamp": "2025-02-06T09:03:20.532654"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45490", "timestamp": "2025-02-06T09:03:20.556406"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45490", "timestamp": "2025-02-06T09:03:20.568373"}
+{"action": "command", "data": {"args": "('',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45490", "timestamp": "2025-02-06T09:03:20.580231"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "", "protocol": "ftp", "src_ip": "35.216.172.135", "src_port": "45490", "status": "failed", "timestamp": "2025-02-06T09:03:20.580457", "username": "anonymous"}
