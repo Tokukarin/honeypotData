@@ -1,0 +1,6 @@
+{"action": "command", "data": {"args": "()", "cmd": "STAT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "115.231.78.11", "src_port": "30000", "timestamp": "2025-02-11T01:16:35.052117"}
+{"action": "command", "data": {"args": "()", "cmd": "LIST"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "115.231.78.11", "src_port": "30000", "timestamp": "2025-02-11T01:16:35.052879"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "64.62.197.42", "src_port": "56637", "timestamp": "2025-02-11T11:49:53.937860"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "64.62.197.40", "src_port": "46617", "timestamp": "2025-02-11T11:49:53.961382"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "147.45.112.177", "src_port": "65299", "timestamp": "2025-02-11T16:36:31.444426"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "18.219.193.156", "src_port": "54010", "timestamp": "2025-02-11T17:19:28.740823"}
