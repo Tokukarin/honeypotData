@@ -1,0 +1,10 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.55.186.92", "src_port": "53017", "timestamp": "2025-02-23T02:25:17.968092"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "167.99.234.119", "src_port": "33123", "timestamp": "2025-02-23T02:25:30.424104"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "157.245.245.246", "src_port": "55923", "timestamp": "2025-02-23T02:25:45.882636"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "157.245.245.246", "src_port": "59651", "timestamp": "2025-02-23T02:26:01.344522"}
+{"action": "command", "data": {"args": "('SSL',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "3.145.160.210", "src_port": "57000", "timestamp": "2025-02-23T03:09:22.821098"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "7bd96efd1c5f7678432be940901e62d821f5f355", "protocol": "mysql", "src_ip": "49.248.192.204", "src_port": "38870", "status": "failed", "timestamp": "2025-02-23T18:35:19.003178", "username": "admin"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "5.135.58.200", "src_port": "48219", "timestamp": "2025-02-23T18:57:57.675497"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "5.135.58.200", "src_port": "48219", "timestamp": "2025-02-23T18:57:57.691621"}
+{"action": "command", "data": {"args": "('abuse@onyphe.io',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "5.135.58.200", "src_port": "48219", "timestamp": "2025-02-23T18:57:57.706322"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "abuse@onyphe.io", "protocol": "ftp", "src_ip": "5.135.58.200", "src_port": "48219", "status": "failed", "timestamp": "2025-02-23T18:57:57.706512", "username": "anonymous"}
