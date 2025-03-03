@@ -1,0 +1,6 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "52396", "timestamp": "2025-03-02T14:31:03.520755"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "52382", "timestamp": "2025-03-02T14:31:03.522852"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "52368", "timestamp": "2025-03-02T14:31:03.523191"}
+{"action": "command", "data": {"args": "()", "cmd": "HELP"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "71.6.199.23", "src_port": "44614", "timestamp": "2025-03-02T23:10:02.534821"}
+{"action": "command", "data": {"args": "()", "cmd": "FEAT"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "71.6.199.23", "src_port": "44614", "timestamp": "2025-03-02T23:10:02.714627"}
+{"action": "command", "data": {"args": "('TLS',)", "cmd": "AUTH"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "71.6.199.23", "src_port": "44614", "timestamp": "2025-03-02T23:10:02.871711"}
