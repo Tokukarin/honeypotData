@@ -1,0 +1,11 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "45250", "timestamp": "2025-03-19T01:01:20.719037"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "45254", "timestamp": "2025-03-19T01:01:20.719619"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.91.127.81", "src_port": "45246", "timestamp": "2025-03-19T01:01:20.720105"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.55.151.3", "src_port": "59403", "timestamp": "2025-03-19T04:39:32.259243"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "64.227.109.89", "src_port": "58709", "timestamp": "2025-03-19T04:39:48.014834"}
+{"action": "command", "data": {"args": "('anonymous',)", "cmd": "USER"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.79.95.103", "src_port": "35190", "timestamp": "2025-03-19T08:51:39.584406"}
+{"action": "command", "data": {"args": "('anonymous@',)", "cmd": "PASS"}, "dest_ip": "0.0.0.0", "dest_port": "21", "protocol": "ftp", "src_ip": "34.79.95.103", "src_port": "35190", "timestamp": "2025-03-19T08:51:39.598287"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "21", "password": "anonymous@", "protocol": "ftp", "src_ip": "34.79.95.103", "src_port": "35190", "status": "failed", "timestamp": "2025-03-19T08:51:39.598456", "username": "anonymous"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "3306", "protocol": "mysql", "src_ip": "130.211.96.179", "src_port": "32820", "timestamp": "2025-03-19T11:47:12.795523"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "3306", "password": "", "protocol": "mysql", "src_ip": "130.211.96.179", "src_port": "32820", "status": "failed", "timestamp": "2025-03-19T11:47:12.808389", "username": "root"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "45.82.78.104", "src_port": "56030", "timestamp": "2025-03-19T12:12:30.755326"}
