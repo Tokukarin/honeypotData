@@ -1,0 +1,1 @@
+{"action": "command", "data": {"command": "USER-AGENT:", "params": "['Mozilla/5.0', '(Windows', 'NT', '6.1)', 'AppleWebKit/537.36', '(KHTML,', 'like', 'Gecko)', 'Chrome/41.0.2228.0', 'Safari/537.36']", "prefix": ""}, "dest_ip": "0.0.0.0", "dest_port": "6667", "protocol": "irc", "src_ip": "146.190.149.252", "src_port": "51230", "timestamp": "2025-11-26T23:58:04.179150"}
