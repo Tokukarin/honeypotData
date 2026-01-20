@@ -1,0 +1,3 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "207.90.244.21", "src_port": "33274", "timestamp": "2026-01-19T23:59:51.286666"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "207.90.244.21", "src_port": "59428", "timestamp": "2026-01-19T23:59:51.557499"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "207.90.244.21", "src_port": "59434", "timestamp": "2026-01-19T23:59:52.696047"}
