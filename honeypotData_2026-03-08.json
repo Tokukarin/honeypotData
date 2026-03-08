@@ -1,0 +1,3 @@
+{"action": "connection", "data": "User .\\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "82.116.48.29", "src_port": "30811", "timestamp": "2026-03-07T23:58:38.266287"}
+{"action": "connection", "data": "Incoming connection (82.116.48.29,62231)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "82.116.48.29", "src_port": "62231", "timestamp": "2026-03-07T23:58:41.502935"}
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "82.116.48.29", "src_port": "62231", "timestamp": "2026-03-07T23:58:41.561540"}
