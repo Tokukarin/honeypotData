@@ -1,0 +1,6 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "protocol": "mssql", "src_ip": "27.223.116.64", "src_port": "63253", "timestamp": "2026-03-30T23:58:25.757474"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "candycane", "protocol": "mssql", "src_ip": "27.223.116.64", "src_port": "63253", "status": "failed", "timestamp": "2026-03-30T23:58:26.111463", "username": "sa"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1433", "protocol": "mssql", "src_ip": "27.223.116.64", "src_port": "63295", "timestamp": "2026-03-30T23:58:26.712911"}
+{"action": "login", "dest_ip": "0.0.0.0", "dest_port": "1433", "password": "reddog", "protocol": "mssql", "src_ip": "27.223.116.64", "src_port": "63295", "status": "failed", "timestamp": "2026-03-30T23:58:27.012878", "username": "sa"}
+{"action": "connection", "data": "Incoming connection (77.94.103.233,60957)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "77.94.103.233", "src_port": "60957", "timestamp": "2026-03-30T23:59:40.896333"}
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "77.94.103.233", "src_port": "60957", "timestamp": "2026-03-30T23:59:40.967046"}
