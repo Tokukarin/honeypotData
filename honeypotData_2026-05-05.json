@@ -1,0 +1,1 @@
+{"action": "connection", "data": "AUTHENTICATE_MESSAGE (\\\u7684\u7528\u6237\u5e10\u6237,)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "113.104.185.149", "src_port": "63344", "timestamp": "2026-05-04T23:59:46.048323"}
