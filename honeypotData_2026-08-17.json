@@ -1,0 +1,5 @@
+{"action": "connection", "data": "Incoming connection (37.36.33.18,63445)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "37.36.33.18", "src_port": "63445", "timestamp": "2026-08-16T23:58:31.557926"}
+{"action": "connection", "data": "Incoming connection (37.36.33.18,63451)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "37.36.33.18", "src_port": "63451", "timestamp": "2026-08-16T23:58:31.667828"}
+{"action": "connection", "data": "User .\\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "37.36.33.18", "src_port": "63451", "timestamp": "2026-08-16T23:58:31.798704"}
+{"action": "connection", "data": "Incoming connection (37.36.33.18,64199)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "37.36.33.18", "src_port": "64199", "timestamp": "2026-08-16T23:58:35.287697"}
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "37.36.33.18", "src_port": "64199", "timestamp": "2026-08-16T23:58:35.403162"}
