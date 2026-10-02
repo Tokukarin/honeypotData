@@ -1,0 +1,3 @@
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "190.254.126.72", "src_port": "13139", "timestamp": "2026-10-01T23:58:17.721980"}
+{"action": "connection", "data": "Incoming connection (195.201.203.112,54070)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "195.201.203.112", "src_port": "54070", "timestamp": "2026-10-01T23:59:59.218062"}
+{"action": "connection", "data": "AUTHENTICATE_MESSAGE (WIN-SL2MN09IHVP\\root,WIN-SL2MN09IHVP)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "195.201.203.112", "src_port": "54070", "timestamp": "2026-10-01T23:59:59.223297"}
