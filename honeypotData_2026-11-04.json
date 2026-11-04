@@ -1,0 +1,5 @@
+{"action": "connection", "data": "Incoming connection (43.240.224.102,52354)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "43.240.224.102", "src_port": "52354", "timestamp": "2026-11-03T23:59:51.445910"}
+{"action": "connection", "data": "Incoming connection (180.241.49.236,52424)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "180.241.49.236", "src_port": "52424", "timestamp": "2026-11-03T23:59:51.679497"}
+{"action": "connection", "data": "User .\\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "180.241.49.236", "src_port": "52424", "timestamp": "2026-11-03T23:59:51.889282"}
+{"action": "connection", "data": "Incoming connection (43.240.224.102,54078)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "43.240.224.102", "src_port": "54078", "timestamp": "2026-11-03T23:59:55.470049"}
+{"action": "connection", "data": "User \\ authenticated successfully (basic)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "43.240.224.102", "src_port": "54078", "timestamp": "2026-11-03T23:59:55.655067"}
