@@ -1,0 +1,7 @@
+{"action": "connection", "data": "Incoming connection (35.189.223.103,52526)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "35.189.223.103", "src_port": "52526", "timestamp": "2026-11-06T23:59:42.525766"}
+{"action": "connection", "data": "AUTHENTICATE_MESSAGE (\\,)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "35.189.223.103", "src_port": "52526", "timestamp": "2026-11-06T23:59:42.560526"}
+{"action": "connection", "data": "Incoming connection (188.48.108.141,1246)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "188.48.108.141", "src_port": "1246", "timestamp": "2026-11-06T23:59:53.240197"}
+{"action": "connection", "data": "Incoming connection (188.48.108.141,42997)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "188.48.108.141", "src_port": "42997", "timestamp": "2026-11-06T23:59:53.273747"}
+{"action": "connection", "data": "AUTHENTICATE_MESSAGE (\\,)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "188.48.108.141", "src_port": "1246", "timestamp": "2026-11-06T23:59:53.413775"}
+{"action": "connection", "data": "AUTHENTICATE_MESSAGE (\\,)", "dest_ip": "0.0.0.0", "dest_port": "445", "protocol": "smb", "src_ip": "188.48.108.141", "src_port": "42997", "timestamp": "2026-11-06T23:59:53.447554"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "192.248.150.180", "src_port": "47450", "timestamp": "2026-11-06T23:58:12.124450"}
