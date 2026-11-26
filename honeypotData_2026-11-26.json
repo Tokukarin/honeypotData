@@ -1,0 +1,5 @@
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.213", "src_port": "53623", "timestamp": "2026-11-25T23:59:22.840288"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.213", "src_port": "41503", "timestamp": "2026-11-25T23:59:25.882450"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.213", "src_port": "45957", "timestamp": "2026-11-25T23:59:25.926097"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "195.96.139.194", "src_port": "60069", "timestamp": "2026-11-25T23:59:37.971194"}
+{"action": "connection", "dest_ip": "0.0.0.0", "dest_port": "1080", "protocol": "socks5", "src_ip": "185.247.137.215", "src_port": "53889", "timestamp": "2026-11-25T23:59:53.031872"}
